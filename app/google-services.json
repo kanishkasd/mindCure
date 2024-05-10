@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "144117061976",
+    "firebase_url": "https://mindcure-ee660-default-rtdb.firebaseio.com",
+    "project_id": "mindcure-ee660",
+    "storage_bucket": "mindcure-ee660.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144117061976:android:fba9bc2460e4c9ac4bad2d",
+        "android_client_info": {
+          "package_name": "com.example.mindcure"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdPt8jZhIiLimr0hw-5eg8xlSnD1nZ5hE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
